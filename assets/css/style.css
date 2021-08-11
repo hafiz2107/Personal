@@ -122,7 +122,7 @@ label.error{
   /* background-color: rgba(0, 0, 0, 0.486); */
   background: linear-gradient(90deg,#96deda, #ffc3a0,#ffafbd, #dfa579);
   background-size: 400% 400%;
-  animation: gradient 20s ease infinite; 
+  animation: gradient 10s ease infinite; 
   
 }
 @keyframes gradient {
